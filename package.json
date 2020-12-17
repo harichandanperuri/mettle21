@@ -1,0 +1,24 @@
+{
+  "name": "mettle21",
+  "version": "1.0.0",
+  "description": "coded by harry",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harichandanperuri/mettle21.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harichandanperuri/mettle21/issues"
+  },
+  "homepage": "https://github.com/harichandanperuri/mettle21#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
