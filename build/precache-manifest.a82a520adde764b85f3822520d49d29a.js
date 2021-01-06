@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f6c3dcf39fcf9a031bd6c6ec50584f3f",
+    "revision": "61c412924bf3066178c7ee6d59adb7df",
     "url": "/index.html"
   },
   {
-    "revision": "f1ebaaea871cdd9ffab8",
-    "url": "/static/css/main.ef11aa90.chunk.css"
+    "revision": "ab05b7598f97ce89cac3",
+    "url": "/static/css/main.9a5eeb61.chunk.css"
   },
   {
-    "revision": "07e9bac78a8d105a8196",
-    "url": "/static/js/2.f3441cc1.chunk.js"
+    "revision": "e71e70cad614a81ee824",
+    "url": "/static/js/2.3281ab64.chunk.js"
   },
   {
     "revision": "8dbc9bd92b344a5deca62eeacc09fc2d",
-    "url": "/static/js/2.f3441cc1.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.3281ab64.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f1ebaaea871cdd9ffab8",
-    "url": "/static/js/main.1d71a6fb.chunk.js"
+    "revision": "ab05b7598f97ce89cac3",
+    "url": "/static/js/main.c6654120.chunk.js"
   },
   {
     "revision": "e40e80a7da7b6fe4cccc",
@@ -40,10 +40,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/back3.97a68614.png"
   },
   {
-    "revision": "b08234a2b7e8e4fb2e3c4e713252021c",
-    "url": "/static/media/bg7.b08234a2.jpg"
-  },
-  {
     "revision": "48ae9e64bb3789b056840b898d766ba8",
     "url": "/static/media/blog4.48ae9e64.png"
   },
@@ -56,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/blog6.52270be9.jpg"
   },
   {
-    "revision": "2144831d911da5f9a0394acda3aa49b3",
-    "url": "/static/media/case study.2144831d.jpg"
+    "revision": "41e697e666abe1534058c53463b3b241",
+    "url": "/static/media/campus.41e697e6.JPG"
   },
   {
     "revision": "216ef03c54bc13771c5e1b8d8f8d5926",
@@ -68,8 +64,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/cynthia-del-rio.9813593c.jpg"
   },
   {
-    "revision": "a6d72fd0ebbf598b2189b68f8e40c575",
-    "url": "/static/media/events.a6d72fd0.jpg"
+    "revision": "739ae6965a5864dc7bef419cc2b98549",
+    "url": "/static/media/events.739ae696.jpeg"
+  },
+  {
+    "revision": "04896d959dc0042916a5d4d16da34a71",
+    "url": "/static/media/guest.04896d95.JPG"
   },
   {
     "revision": "f0d025cfc9ac1c1f15849defa3be19fd",
@@ -94,10 +94,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4112cbc1477d9e149033c5df66087e16",
     "url": "/static/media/olu-eletu.4112cbc1.jpg"
-  },
-  {
-    "revision": "9ca1f733f45a1aa7c0e1657275df5d84",
-    "url": "/static/media/pf1.9ca1f733.jpg"
   },
   {
     "revision": "784c023f20e0e5b01297373a58884bb7",
@@ -136,7 +132,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/studio-4.e064d090.jpg"
   },
   {
-    "revision": "4c56e495fd59e14d855af7433d00302f",
-    "url": "/static/media/workshops.4c56e495.jpg"
+    "revision": "f60f4884159bc5271bac2a5033b054ca",
+    "url": "/static/media/wor1.f60f4884.jpeg"
+  },
+  {
+    "revision": "9a4ecd9fe0eae0631203832d2e1e27c1",
+    "url": "/static/media/wor2.9a4ecd9f.jpeg"
+  },
+  {
+    "revision": "256583dea45aa4f3b8374c61fc15e3e0",
+    "url": "/static/media/wor3.256583de.jpeg"
+  },
+  {
+    "revision": "47a30bedc4f7947973503ae7a797490c",
+    "url": "/static/media/workshops.47a30bed.jpg"
   }
 ]);
