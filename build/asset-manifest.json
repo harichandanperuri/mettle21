@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.1303ee92.chunk.css",
-    "main.js": "/static/js/main.e8e57a4b.chunk.js",
-    "main.js.map": "/static/js/main.e8e57a4b.chunk.js.map",
+    "main.css": "/static/css/main.999ef022.chunk.css",
+    "main.js": "/static/js/main.c9060d31.chunk.js",
+    "main.js.map": "/static/js/main.c9060d31.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.13cf9406.js",
     "runtime-main.js.map": "/static/js/runtime-main.13cf9406.js.map",
-    "static/js/2.f25888f7.chunk.js": "/static/js/2.f25888f7.chunk.js",
-    "static/js/2.f25888f7.chunk.js.map": "/static/js/2.f25888f7.chunk.js.map",
+    "static/js/2.83dc179f.chunk.js": "/static/js/2.83dc179f.chunk.js",
+    "static/js/2.83dc179f.chunk.js.map": "/static/js/2.83dc179f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a3b6e41c4080d8f2024874c113518bde.js": "/precache-manifest.a3b6e41c4080d8f2024874c113518bde.js",
+    "precache-manifest.86f80afb8a22fe1c64932f1c3c863181.js": "/precache-manifest.86f80afb8a22fe1c64932f1c3c863181.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.1303ee92.chunk.css.map": "/static/css/main.1303ee92.chunk.css.map",
-    "static/js/2.f25888f7.chunk.js.LICENSE.txt": "/static/js/2.f25888f7.chunk.js.LICENSE.txt",
+    "static/css/main.999ef022.chunk.css.map": "/static/css/main.999ef022.chunk.css.map",
+    "static/js/2.83dc179f.chunk.js.LICENSE.txt": "/static/js/2.83dc179f.chunk.js.LICENSE.txt",
     "static/media/Blog1.jpeg": "/static/media/Blog1.f68a0deb.jpeg",
     "static/media/Blog2.jpg": "/static/media/Blog2.3bdbe260.jpg",
     "static/media/Blog3.png": "/static/media/Blog3.790b16ac.png",
-    "static/media/back3.png": "/static/media/back3.97a68614.png",
+    "static/media/back2.jpg": "/static/media/back2.9be82cae.jpg",
+    "static/media/blog.jpeg": "/static/media/blog.0b4b3dd3.jpeg",
     "static/media/blog4.png": "/static/media/blog4.48ae9e64.png",
     "static/media/blog5.JPG": "/static/media/blog5.f1255388.JPG",
-    "static/media/blog6.jpg": "/static/media/blog6.52270be9.jpg",
     "static/media/campus.JPG": "/static/media/campus.41e697e6.JPG",
     "static/media/clem-onojeghuo.jpg": "/static/media/clem-onojeghuo.216ef03c.jpg",
     "static/media/cynthia-del-rio.jpg": "/static/media/cynthia-del-rio.9813593c.jpg",
@@ -46,8 +46,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.13cf9406.js",
-    "static/js/2.f25888f7.chunk.js",
-    "static/css/main.1303ee92.chunk.css",
-    "static/js/main.e8e57a4b.chunk.js"
+    "static/js/2.83dc179f.chunk.js",
+    "static/css/main.999ef022.chunk.css",
+    "static/js/main.c9060d31.chunk.js"
   ]
 }
