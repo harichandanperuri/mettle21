@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a9a34aa10a18277ef37277bd2e0856b0",
+    "revision": "edfec799d4dd9116dbcd8182b82a01f6",
     "url": "/index.html"
   },
   {
-    "revision": "c71a98ab2d9b3e4cc0a0",
-    "url": "/static/css/main.b0ea40a6.chunk.css"
+    "revision": "afd34da4b50c0be425ad",
+    "url": "/static/css/main.3a90c274.chunk.css"
   },
   {
-    "revision": "5ccec0f721861fa7fd15",
-    "url": "/static/js/2.63322bef.chunk.js"
+    "revision": "dc922b85ec66c53b167c",
+    "url": "/static/js/2.0d3b0ba6.chunk.js"
   },
   {
     "revision": "8dbc9bd92b344a5deca62eeacc09fc2d",
-    "url": "/static/js/2.63322bef.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.0d3b0ba6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c71a98ab2d9b3e4cc0a0",
-    "url": "/static/js/main.f33528a0.chunk.js"
+    "revision": "afd34da4b50c0be425ad",
+    "url": "/static/js/main.c4d88a6f.chunk.js"
   },
   {
     "revision": "e40e80a7da7b6fe4cccc",
@@ -62,6 +62,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9813593cc577a319a2201342ef0fb237",
     "url": "/static/media/cynthia-del-rio.9813593c.jpg"
+  },
+  {
+    "revision": "50ed5b7e12d102b870549eb5859b82e1",
+    "url": "/static/media/domino.50ed5b7e.JPG"
   },
   {
     "revision": "739ae6965a5864dc7bef419cc2b98549",
@@ -120,6 +124,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/profile-bg.baf6b40a.jpg"
   },
   {
+    "revision": "b7c30ff218bc3c032a683fa9e746782d",
+    "url": "/static/media/redbus.b7c30ff2.JPG"
+  },
+  {
     "revision": "cf8b686b294041d0925f4e745b1fabb9",
     "url": "/static/media/sign.cf8b686b.jpg"
   },
@@ -144,8 +152,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/tcf2.600f1355.JPG"
   },
   {
-    "revision": "c255c1d0f6a7891dbf7d38396cd83173",
-    "url": "/static/media/wallpap2.c255c1d0.png"
+    "revision": "bed7eed61d52f45c20eccfb2924fed0a",
+    "url": "/static/media/wallpap2.bed7eed6.png"
   },
   {
     "revision": "f60f4884159bc5271bac2a5033b054ca",
