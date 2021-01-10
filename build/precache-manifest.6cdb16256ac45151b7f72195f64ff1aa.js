@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "69e1a87b2aac155b3161b13acfba39d4",
+    "revision": "bc26d140272b1d1be969420b314fa094",
     "url": "/index.html"
   },
   {
-    "revision": "dfbb4407dcd8fe1c648e",
-    "url": "/static/css/main.785a296b.chunk.css"
+    "revision": "ddcf9f2d94ee0f23fd2a",
+    "url": "/static/css/main.848b4379.chunk.css"
   },
   {
     "revision": "dc922b85ec66c53b167c",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.0d3b0ba6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dfbb4407dcd8fe1c648e",
-    "url": "/static/js/main.6f3be78a.chunk.js"
+    "revision": "ddcf9f2d94ee0f23fd2a",
+    "url": "/static/js/main.e5f2dba3.chunk.js"
   },
   {
     "revision": "e40e80a7da7b6fe4cccc",
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/blog5.f1255388.JPG"
   },
   {
-    "revision": "41e697e666abe1534058c53463b3b241",
-    "url": "/static/media/campus.41e697e6.JPG"
+    "revision": "8ff66ce77ac9048e2f05c8d7e61213bc",
+    "url": "/static/media/campusamb2.8ff66ce7.png"
   },
   {
     "revision": "216ef03c54bc13771c5e1b8d8f8d5926",
@@ -68,8 +68,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/domino.50ed5b7e.JPG"
   },
   {
-    "revision": "571d3d433b758c442278b1cdac78d51b",
-    "url": "/static/media/events.571d3d43.jpeg"
+    "revision": "b8798ddf2f7131d3f18ac6165849afeb",
+    "url": "/static/media/events2.b8798ddf.png"
   },
   {
     "revision": "a9423738ab0e9dcb4729ad827528c4e7",
@@ -168,7 +168,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/wor3.256583de.jpeg"
   },
   {
-    "revision": "47a30bedc4f7947973503ae7a797490c",
-    "url": "/static/media/workshops.47a30bed.jpg"
+    "revision": "131e153f56db5bc2b46d0d4b1df45a93",
+    "url": "/static/media/workshops2.131e153f.png"
   }
 ]);

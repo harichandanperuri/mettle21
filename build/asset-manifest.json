@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.785a296b.chunk.css",
-    "main.js": "/static/js/main.6f3be78a.chunk.js",
-    "main.js.map": "/static/js/main.6f3be78a.chunk.js.map",
+    "main.css": "/static/css/main.848b4379.chunk.css",
+    "main.js": "/static/js/main.e5f2dba3.chunk.js",
+    "main.js.map": "/static/js/main.e5f2dba3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.13cf9406.js",
     "runtime-main.js.map": "/static/js/runtime-main.13cf9406.js.map",
     "static/js/2.0d3b0ba6.chunk.js": "/static/js/2.0d3b0ba6.chunk.js",
     "static/js/2.0d3b0ba6.chunk.js.map": "/static/js/2.0d3b0ba6.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.8bae95da2aa7bc2d0a0f1fcc54b02024.js": "/precache-manifest.8bae95da2aa7bc2d0a0f1fcc54b02024.js",
+    "precache-manifest.6cdb16256ac45151b7f72195f64ff1aa.js": "/precache-manifest.6cdb16256ac45151b7f72195f64ff1aa.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.785a296b.chunk.css.map": "/static/css/main.785a296b.chunk.css.map",
+    "static/css/main.848b4379.chunk.css.map": "/static/css/main.848b4379.chunk.css.map",
     "static/js/2.0d3b0ba6.chunk.js.LICENSE.txt": "/static/js/2.0d3b0ba6.chunk.js.LICENSE.txt",
     "static/media/Blog1.jpeg": "/static/media/Blog1.f68a0deb.jpeg",
     "static/media/Blog2.jpg": "/static/media/Blog2.3bdbe260.jpg",
@@ -19,11 +19,11 @@
     "static/media/back2.jpg": "/static/media/back2.9be82cae.jpg",
     "static/media/blog4.png": "/static/media/blog4.48ae9e64.png",
     "static/media/blog5.JPG": "/static/media/blog5.f1255388.JPG",
-    "static/media/campus.JPG": "/static/media/campus.41e697e6.JPG",
+    "static/media/campusamb2.png": "/static/media/campusamb2.8ff66ce7.png",
     "static/media/clem-onojeghuo.jpg": "/static/media/clem-onojeghuo.216ef03c.jpg",
     "static/media/cynthia-del-rio.jpg": "/static/media/cynthia-del-rio.9813593c.jpg",
     "static/media/domino.JPG": "/static/media/domino.50ed5b7e.JPG",
-    "static/media/events.jpeg": "/static/media/events.571d3d43.jpeg",
+    "static/media/events2.png": "/static/media/events2.b8798ddf.png",
     "static/media/guest1.jpg": "/static/media/guest1.a9423738.jpg",
     "static/media/guest2.jpeg": "/static/media/guest2.90e4af52.jpeg",
     "static/media/guestwall2.png": "/static/media/guestwall2.34863118.png",
@@ -48,12 +48,12 @@
     "static/media/wor1.jpeg": "/static/media/wor1.f60f4884.jpeg",
     "static/media/wor2.jpeg": "/static/media/wor2.9a4ecd9f.jpeg",
     "static/media/wor3.jpeg": "/static/media/wor3.256583de.jpeg",
-    "static/media/workshops.jpg": "/static/media/workshops.47a30bed.jpg"
+    "static/media/workshops2.png": "/static/media/workshops2.131e153f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.13cf9406.js",
     "static/js/2.0d3b0ba6.chunk.js",
-    "static/css/main.785a296b.chunk.css",
-    "static/js/main.6f3be78a.chunk.js"
+    "static/css/main.848b4379.chunk.css",
+    "static/js/main.e5f2dba3.chunk.js"
   ]
 }
